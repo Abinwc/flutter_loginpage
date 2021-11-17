@@ -87,3 +87,10 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+  
+  #The asset section used in the app will be there in this folder 
+  assets:
+    - asset/images/ 
+
+
+

@@ -37,7 +37,7 @@ class _LoginDemoState extends State<LoginDemo> {
 													child: Container(
 															width: 200,
 															height: 150,
-															child: new Image.network('https://github.com/yogitakumar/logindemo/raw/master/asset/images/flutter-logo.png')
+															child: Image.asset('asset/images/flutter_logo.png')
 													)
 											)
 									),
